@@ -1,4 +1,4 @@
-# Hi, I'm Syed Zain Ali Shah 👋
+# Hi, I'm Zain Ali 👋
 
 I'm a **Software Engineer** who enjoys building reliable software and continuously learning about **Artificial Intelligence and Machine Learning**. I love exploring how AI can solve real-world problems while staying grounded in strong software engineering principles.
 
